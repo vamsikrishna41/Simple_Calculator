@@ -1,0 +1,26 @@
+
+h1{
+    font-family: "sans-serif";
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+div{
+    text-align: center;
+    align-items: center;
+    border-style:groove ;
+    background-color:lightblue;
+    border-radius: 200px;
+    border-width: 20px;
+    width: 700px;
+    position: relative;
+    left: 300px;
+    padding-bottom: 30px;
+   
+
+
+
+}
